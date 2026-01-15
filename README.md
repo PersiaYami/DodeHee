@@ -117,12 +117,6 @@ For detailed usage, refer to the [RUN.md](docs/RUN.md).
 
 -   ⭐️ Thanks to [PELock](https://www.pelock.com)
 
-## 🤝 Thanks to all contributors
-
-<a href="https://github.com/horsicq/Detect-It-Easy/graphs/contributors">
-<img src="https://readme-contribs.as93.net/contributors/horsicq/Detect-It-Easy?textColor=737373&perRow=9&shape=squircle&isResponsive=true" />
-</a>
-
 ---
 
 ![Mascot](docs/logo2.png)
